@@ -1,3 +1,90 @@
 body {
-    padding-top: 3.5rem;
+  font-family: 'Arial', sans-serif;
+  background-color: #f4f4f4;
+  color: #333;
   }
+
+  .navbar {
+    background-color: #4caf50;
+  }
+
+  .navbar-brand {
+    color: #f4f4f4;
+  }
+
+  .nav-link {
+    color: #f4f4f4;
+  }
+
+  .container{
+    text-align: center;
+    padding: 0.5em;
+    margin-bottom: 20px;
+}
+
+  .display-3{
+    color: #4caf50;
+    padding: 0.5em;
+  }
+
+  .btn {
+    color: #ffffff;
+    background-color: #4caf50;
+    padding: 0.5em
+  }
+  
+  .perfil {
+    background-color: #fff;
+    padding: 2em;
+    border-radius: 10px;
+    box-shadow: 0 0 20px rgba(0, 0, 0, 0.1);
+    margin-bottom: 20px;
+}
+
+
+.cta-button {
+  display: inline-block;
+  padding: 10px 20px;
+  background-color: #4caf50;
+  color: #fff;
+  text-decoration: none;
+  border-radius: 5px;
+  margin-top: 15px;
+}
+
+.feature {
+  text-align: center;
+  margin-bottom: 20px;
+}
+
+.feature img {
+  max-width: 100%;
+  height: auto;
+  margin-bottom: 10px;
+}
+
+.download {
+  text-align: center;
+  padding: 2em;
+  margin-bottom: 20px;
+}
+
+.download-buttons {
+  margin-top: 20px;
+}
+
+.download-button {
+  display: inline-block;
+  padding: 10px 20px;
+  background-color: #4caf50;
+  color: #fff;
+  text-decoration: none;
+  border-radius: 5px;
+  margin: 0 10px;
+}
+
+footer {
+  color: #000000;
+  text-align: center;
+  padding: 1em;
+}
